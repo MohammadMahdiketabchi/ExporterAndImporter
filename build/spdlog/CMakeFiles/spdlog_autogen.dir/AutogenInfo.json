@@ -1,0 +1,706 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "E:/New Folder2/ExxportAndImportV2/build/spdlog/spdlog_autogen",
+	"CMAKE_BINARY_DIR" : "E:/New Folder2/ExxportAndImportV2/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/New Folder2/ExxportAndImportV2/build/spdlog",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/New Folder2/ExxportAndImportV2/spdlog",
+	"CMAKE_EXECUTABLE" : "C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"E:/New Folder2/ExxportAndImportV2/spdlog/CMakeLists.txt",
+		"E:/New Folder2/ExxportAndImportV2/spdlog/cmake/utils.cmake",
+		"E:/New Folder2/ExxportAndImportV2/spdlog/cmake/ide.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/GNUInstallDirs.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/FindThreads.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CheckLibraryExists.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "E:/New Folder2/ExxportAndImportV2",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "E:/New Folder2/ExxportAndImportV2/build/spdlog/spdlog_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "spdlog_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/async.h",
+			"MU",
+			"HVFRPAM7ED/moc_async.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/async_logger-inl.h",
+			"MU",
+			"HVFRPAM7ED/moc_async_logger-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/async_logger.h",
+			"MU",
+			"HVFRPAM7ED/moc_async_logger.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/common-inl.h",
+			"MU",
+			"HVFRPAM7ED/moc_common-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/common.h",
+			"MU",
+			"HVFRPAM7ED/moc_common.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/backtracer-inl.h",
+			"MU",
+			"XQP7O2TD4B/moc_backtracer-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/backtracer.h",
+			"MU",
+			"XQP7O2TD4B/moc_backtracer.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/circular_q.h",
+			"MU",
+			"XQP7O2TD4B/moc_circular_q.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/console_globals.h",
+			"MU",
+			"XQP7O2TD4B/moc_console_globals.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/file_helper-inl.h",
+			"MU",
+			"XQP7O2TD4B/moc_file_helper-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/file_helper.h",
+			"MU",
+			"XQP7O2TD4B/moc_file_helper.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/fmt_helper.h",
+			"MU",
+			"XQP7O2TD4B/moc_fmt_helper.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/log_msg-inl.h",
+			"MU",
+			"XQP7O2TD4B/moc_log_msg-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/log_msg.h",
+			"MU",
+			"XQP7O2TD4B/moc_log_msg.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/log_msg_buffer-inl.h",
+			"MU",
+			"XQP7O2TD4B/moc_log_msg_buffer-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/log_msg_buffer.h",
+			"MU",
+			"XQP7O2TD4B/moc_log_msg_buffer.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/mpmc_blocking_q.h",
+			"MU",
+			"XQP7O2TD4B/moc_mpmc_blocking_q.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/null_mutex.h",
+			"MU",
+			"XQP7O2TD4B/moc_null_mutex.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/os-inl.h",
+			"MU",
+			"XQP7O2TD4B/moc_os-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/os.h",
+			"MU",
+			"XQP7O2TD4B/moc_os.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/periodic_worker-inl.h",
+			"MU",
+			"XQP7O2TD4B/moc_periodic_worker-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/periodic_worker.h",
+			"MU",
+			"XQP7O2TD4B/moc_periodic_worker.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/registry-inl.h",
+			"MU",
+			"XQP7O2TD4B/moc_registry-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/registry.h",
+			"MU",
+			"XQP7O2TD4B/moc_registry.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/synchronous_factory.h",
+			"MU",
+			"XQP7O2TD4B/moc_synchronous_factory.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/tcp_client-windows.h",
+			"MU",
+			"XQP7O2TD4B/moc_tcp_client-windows.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/tcp_client.h",
+			"MU",
+			"XQP7O2TD4B/moc_tcp_client.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/thread_pool-inl.h",
+			"MU",
+			"XQP7O2TD4B/moc_thread_pool-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/thread_pool.h",
+			"MU",
+			"XQP7O2TD4B/moc_thread_pool.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/udp_client-windows.h",
+			"MU",
+			"XQP7O2TD4B/moc_udp_client-windows.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/udp_client.h",
+			"MU",
+			"XQP7O2TD4B/moc_udp_client.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/details/windows_include.h",
+			"MU",
+			"XQP7O2TD4B/moc_windows_include.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/bin_to_hex.h",
+			"MU",
+			"AO7NIFJ7ZK/moc_bin_to_hex.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/bundled/args.h",
+			"MU",
+			"2YS6ESAODH/moc_args.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/bundled/chrono.h",
+			"MU",
+			"2YS6ESAODH/moc_chrono.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/bundled/color.h",
+			"MU",
+			"2YS6ESAODH/moc_color.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/bundled/compile.h",
+			"MU",
+			"2YS6ESAODH/moc_compile.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/bundled/core.h",
+			"MU",
+			"2YS6ESAODH/moc_core.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/bundled/format-inl.h",
+			"MU",
+			"2YS6ESAODH/moc_format-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/bundled/format.h",
+			"MU",
+			"2YS6ESAODH/moc_format.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/bundled/locale.h",
+			"MU",
+			"2YS6ESAODH/moc_locale.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/bundled/os.h",
+			"MU",
+			"2YS6ESAODH/moc_os.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/bundled/ostream.h",
+			"MU",
+			"2YS6ESAODH/moc_ostream.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/bundled/printf.h",
+			"MU",
+			"2YS6ESAODH/moc_printf.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/bundled/ranges.h",
+			"MU",
+			"2YS6ESAODH/moc_ranges.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/bundled/std.h",
+			"MU",
+			"2YS6ESAODH/moc_std.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/bundled/xchar.h",
+			"MU",
+			"2YS6ESAODH/moc_xchar.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/chrono.h",
+			"MU",
+			"AO7NIFJ7ZK/moc_chrono.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/compile.h",
+			"MU",
+			"AO7NIFJ7ZK/moc_compile.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/fmt.h",
+			"MU",
+			"AO7NIFJ7ZK/moc_fmt.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/ostr.h",
+			"MU",
+			"AO7NIFJ7ZK/moc_ostr.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/ranges.h",
+			"MU",
+			"AO7NIFJ7ZK/moc_ranges.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/std.h",
+			"MU",
+			"AO7NIFJ7ZK/moc_std.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fmt/xchar.h",
+			"MU",
+			"AO7NIFJ7ZK/moc_xchar.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/formatter.h",
+			"MU",
+			"HVFRPAM7ED/moc_formatter.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/fwd.h",
+			"MU",
+			"HVFRPAM7ED/moc_fwd.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/logger-inl.h",
+			"MU",
+			"HVFRPAM7ED/moc_logger-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/logger.h",
+			"MU",
+			"HVFRPAM7ED/moc_logger.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/mdc.h",
+			"MU",
+			"HVFRPAM7ED/moc_mdc.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/pattern_formatter-inl.h",
+			"MU",
+			"HVFRPAM7ED/moc_pattern_formatter-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/pattern_formatter.h",
+			"MU",
+			"HVFRPAM7ED/moc_pattern_formatter.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/android_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_android_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/ansicolor_sink-inl.h",
+			"MU",
+			"L6DBGAO5Y6/moc_ansicolor_sink-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/ansicolor_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_ansicolor_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/base_sink-inl.h",
+			"MU",
+			"L6DBGAO5Y6/moc_base_sink-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/base_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_base_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/basic_file_sink-inl.h",
+			"MU",
+			"L6DBGAO5Y6/moc_basic_file_sink-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/basic_file_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_basic_file_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/callback_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_callback_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/daily_file_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_daily_file_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/dist_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_dist_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/dup_filter_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_dup_filter_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/hourly_file_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_hourly_file_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/kafka_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_kafka_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/mongo_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_mongo_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/msvc_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_msvc_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/null_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_null_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/ostream_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_ostream_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/qt_sinks.h",
+			"MU",
+			"L6DBGAO5Y6/moc_qt_sinks.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/ringbuffer_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_ringbuffer_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/rotating_file_sink-inl.h",
+			"MU",
+			"L6DBGAO5Y6/moc_rotating_file_sink-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/rotating_file_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_rotating_file_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/sink-inl.h",
+			"MU",
+			"L6DBGAO5Y6/moc_sink-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/stdout_color_sinks-inl.h",
+			"MU",
+			"L6DBGAO5Y6/moc_stdout_color_sinks-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/stdout_color_sinks.h",
+			"MU",
+			"L6DBGAO5Y6/moc_stdout_color_sinks.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/stdout_sinks-inl.h",
+			"MU",
+			"L6DBGAO5Y6/moc_stdout_sinks-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/stdout_sinks.h",
+			"MU",
+			"L6DBGAO5Y6/moc_stdout_sinks.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/syslog_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_syslog_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/systemd_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_systemd_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/tcp_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_tcp_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/udp_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_udp_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/win_eventlog_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_win_eventlog_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/wincolor_sink-inl.h",
+			"MU",
+			"L6DBGAO5Y6/moc_wincolor_sink-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/sinks/wincolor_sink.h",
+			"MU",
+			"L6DBGAO5Y6/moc_wincolor_sink.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/spdlog-inl.h",
+			"MU",
+			"HVFRPAM7ED/moc_spdlog-inl.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/spdlog.h",
+			"MU",
+			"HVFRPAM7ED/moc_spdlog.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/stopwatch.h",
+			"MU",
+			"HVFRPAM7ED/moc_stopwatch.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/tweakme.h",
+			"MU",
+			"HVFRPAM7ED/moc_tweakme.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/include/spdlog/version.h",
+			"MU",
+			"HVFRPAM7ED/moc_version.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "E:/New Folder2/ExxportAndImportV2/build/spdlog/spdlog_autogen/include",
+	"MOC_COMPILATION_FILE" : "E:/New Folder2/ExxportAndImportV2/build/spdlog/spdlog_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "SPDLOG_COMPILED_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"E:/New Folder2/ExxportAndImportV2/spdlog/include",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/include/c++/14.1.0",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/include/c++/14.1.0/x86_64-w64-mingw32",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/include/c++/14.1.0/backward",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/include",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include-fixed",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/bin/c++.exe",
+		"-std=c++17",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "E:/New Folder2/ExxportAndImportV2/build/spdlog/spdlog_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "E:/New Folder2/ExxportAndImportV2/build/spdlog/CMakeFiles/spdlog_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/Qt_5/5.15.2/mingw81_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "E:/New Folder2/ExxportAndImportV2/build/spdlog/CMakeFiles/spdlog_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "E:/New Folder2/ExxportAndImportV2/spdlog/src/async.cpp", "MU", null ],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/src/bundled_fmtlib_format.cpp",
+			"MU",
+			null
+		],
+		[ "E:/New Folder2/ExxportAndImportV2/spdlog/src/cfg.cpp", "MU", null ],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/src/color_sinks.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/src/file_sinks.cpp",
+			"MU",
+			null
+		],
+		[ "E:/New Folder2/ExxportAndImportV2/spdlog/src/spdlog.cpp", "MU", null ],
+		[
+			"E:/New Folder2/ExxportAndImportV2/spdlog/src/stdout_sinks.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

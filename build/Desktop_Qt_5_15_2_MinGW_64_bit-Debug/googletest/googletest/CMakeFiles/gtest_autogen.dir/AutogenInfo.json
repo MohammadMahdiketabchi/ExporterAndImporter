@@ -1,0 +1,84 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/googletest/googletest/gtest_autogen",
+	"CMAKE_BINARY_DIR" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/googletest/googletest",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/New Folder2/ExxportAndImportV2/googletest/googletest",
+	"CMAKE_EXECUTABLE" : "C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"E:/New Folder2/ExxportAndImportV2/googletest/googletest/CMakeLists.txt",
+		"E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake",
+		"E:/New Folder2/ExxportAndImportV2/googletest/googletest/cmake/internal_utils.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in",
+		"E:/New Folder2/ExxportAndImportV2/googletest/googletest/cmake/Config.cmake.in",
+		"E:/New Folder2/ExxportAndImportV2/googletest/googletest/cmake/gtest.pc.in",
+		"E:/New Folder2/ExxportAndImportV2/googletest/googletest/cmake/gtest_main.pc.in"
+	],
+	"CMAKE_SOURCE_DIR" : "E:/New Folder2/ExxportAndImportV2",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/googletest/googletest/gtest_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "gtest_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/googletest/googletest/gtest_autogen/include",
+	"MOC_COMPILATION_FILE" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/googletest/googletest/gtest_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"E:/New Folder2/ExxportAndImportV2/googletest/googletest/include",
+		"E:/New Folder2/ExxportAndImportV2/googletest/googletest",
+		"C:/Qt/Qt_5/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+		"C:/Qt/Qt_5/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+		"C:/Qt/Qt_5/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+		"C:/Qt/Qt_5/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+		"C:/Qt/Qt_5/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+		"C:/Qt/Qt_5/Tools/mingw810_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Qt/Qt_5/Tools/mingw810_64/bin/g++.exe",
+		"-std=c++17",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/googletest/googletest/gtest_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/googletest/googletest/CMakeFiles/gtest_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/Qt_5/5.15.2/mingw81_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/googletest/googletest/CMakeFiles/gtest_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"E:/New Folder2/ExxportAndImportV2/googletest/googletest/src/gtest-all.cc",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,96 @@
+# ninja log v6
+25571	25866	7431136465075256	googletest/googlemock/gmock_autogen/mocs_compilation.cpp	d7774d651b51923f
+25408	25571	7431136461339302	lib/libgtest.a	369e8aed700bed5a
+15251	15715	7431136359723648	ExxportAndImportV2.exe	a5ef439d2a89316
+32254	34532	7431136529768299	googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	d256dc72a49221fd
+28405	28604	7431136491294402	lib/libgtest_main.a	217187a2d0d12802
+18	639	7430824411591834	E:/New Folder2/ExxportAndImportV2/build/spdlog/spdlog_autogen/mocs_compilation.cpp	7737d0180d3747f1
+253	12299	7431136209646877	CMakeFiles/ExxportAndImportV2.dir/Group_table.cpp.obj	b330f0cbe2e3154f
+665	10142	7430824412641639	spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.obj	405b54dbba67a9ae
+32010	32250	7431136529161981	googletest/googlemock/gmock_main_autogen/mocs_compilation.cpp	7ad222c87a4df0ac
+1389	25406	7431136221007059	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	81c06b4d1f9087d4
+44	248	7431136207630779	E:/New Folder2/ExxportAndImportV2/build/ExxportAndImportV2_autogen/timestamp	55b073d6a1fd14da
+282	12208	7431136210022321	CMakeFiles/ExxportAndImportV2.dir/DetailPersonalInfo.cpp.obj	33af5ee0e0ecfb8c
+7825	12763	7431136285542192	CMakeFiles/ExxportAndImportV2.dir/dataaccessobject.cpp.obj	42acddc55137006f
+25578	25889	7431136465245831	googletest/googletest/gtest_main_autogen/timestamp	7745bb40e2728b92
+656	10237	7430824412491675	spdlog/CMakeFiles/spdlog.dir/src/color_sinks.cpp.obj	b87e912d123dcf73
+25868	26450	7431136465845778	googletest/googlemock/CMakeFiles/gmock.dir/gmock_autogen/mocs_compilation.cpp.obj	a71380e049c699f6
+31855	32009	7431136525719138	lib/libgmock.a	988baa34aa811ebf
+18	639	7430824411591834	spdlog/spdlog_autogen/mocs_compilation.cpp	7737d0180d3747f1
+44	248	7431136207630779	E:/New Folder2/ExxportAndImportV2/build/ExxportAndImportV2_autogen/mocs_compilation.cpp	55b073d6a1fd14da
+32010	32250	7431136529161981	E:/New Folder2/ExxportAndImportV2/build/googletest/googlemock/gmock_main_autogen/timestamp	7ad222c87a4df0ac
+677	6872	7430824412641639	spdlog/CMakeFiles/spdlog.dir/src/async.cpp.obj	1c8278ad48e2936c
+36	727	7431136209646877	googletest/googletest/gtest_autogen/timestamp	ba27bc04a3c030fb
+1303	10140	7430824418940525	spdlog/CMakeFiles/spdlog.dir/src/cfg.cpp.obj	e7ec3fc5bd81161f
+44	248	7431136207630779	ExxportAndImportV2_autogen/timestamp	55b073d6a1fd14da
+36	727	7431136209646877	E:/New Folder2/ExxportAndImportV2/build/googletest/googletest/gtest_autogen/timestamp	ba27bc04a3c030fb
+25873	31854	7431136465845778	googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	df4846b7dd71d5c8
+6873	15828	7430824474580612	spdlog/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.obj	523e7c6d2b719783
+34532	34706	7431136552557995	lib/libgmock_main.a	18f42bec2e3fe08a
+649	9939	7430824412341691	spdlog/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.obj	5d2189f821462bd0
+25890	26451	7431136466145723	googletest/googletest/CMakeFiles/gtest_main.dir/gtest_main_autogen/mocs_compilation.cpp.obj	10bd2fe2242908fb
+288	8137	7431136210172292	CMakeFiles/ExxportAndImportV2.dir/application.cpp.obj	562eb701323fe875
+729	1387	7431136214614263	googletest/googletest/CMakeFiles/gtest.dir/gtest_autogen/mocs_compilation.cpp.obj	e0da1d91003c1a88
+25571	25866	7431136465075256	E:/New Folder2/ExxportAndImportV2/build/googletest/googlemock/gmock_autogen/timestamp	d7774d651b51923f
+8139	11926	7431136288522082	CMakeFiles/ExxportAndImportV2.dir/logger.cpp.obj	7da8b5da55829d5
+25571	25866	7431136465075256	googletest/googlemock/gmock_autogen/timestamp	d7774d651b51923f
+32010	32250	7431136529161981	E:/New Folder2/ExxportAndImportV2/build/googletest/googlemock/gmock_main_autogen/mocs_compilation.cpp	7ad222c87a4df0ac
+18	639	7430824411591834	E:/New Folder2/ExxportAndImportV2/build/spdlog/spdlog_autogen/timestamp	7737d0180d3747f1
+18	639	7430824411591834	spdlog/spdlog_autogen/timestamp	7737d0180d3747f1
+17596	21759	7430824581939541	CMakeFiles/ExxportAndImportV2.dir/ExxportAndImportV2_autogen/mocs_compilation.cpp.obj	e9049c9860090de0
+249	7821	7431136209646877	CMakeFiles/ExxportAndImportV2.dir/main.cpp.obj	b95229f2d8c6a723
+641	1303	7430824412341691	spdlog/CMakeFiles/spdlog.dir/spdlog_autogen/mocs_compilation.cpp.obj	a7ca67c5c99b027f
+25578	25889	7431136465245831	E:/New Folder2/ExxportAndImportV2/build/googletest/googletest/gtest_main_autogen/mocs_compilation.cpp	7745bb40e2728b92
+32250	32354	7431136529618268	googletest/googlemock/CMakeFiles/gmock_main.dir/gmock_main_autogen/mocs_compilation.cpp.obj	4dc156d76b3f63ea
+25571	25866	7431136465075256	E:/New Folder2/ExxportAndImportV2/build/googletest/googlemock/gmock_autogen/mocs_compilation.cpp	d7774d651b51923f
+25578	25889	7431136465245831	E:/New Folder2/ExxportAndImportV2/build/googletest/googletest/gtest_main_autogen/timestamp	7745bb40e2728b92
+32010	32250	7431136529161981	googletest/googlemock/gmock_main_autogen/timestamp	7ad222c87a4df0ac
+16900	17217	7430824574906318	spdlog/libspdlog.a	73f06766f534cbbb
+645	16899	7430824412341691	spdlog/CMakeFiles/spdlog.dir/src/spdlog.cpp.obj	e9169d7fa2dd5510
+258	15251	7431136209796835	CMakeFiles/ExxportAndImportV2.dir/User_Table.cpp.obj	c05dd5695c6aeed4
+44	248	7431136207630779	ExxportAndImportV2_autogen/mocs_compilation.cpp	55b073d6a1fd14da
+36	727	7431136209646877	googletest/googletest/gtest_autogen/mocs_compilation.cpp	ba27bc04a3c030fb
+25895	28404	7431136466224570	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	31999a1c1d0551c0
+36	727	7431136209646877	E:/New Folder2/ExxportAndImportV2/build/googletest/googletest/gtest_autogen/mocs_compilation.cpp	ba27bc04a3c030fb
+25578	25889	7431136465245831	googletest/googletest/gtest_main_autogen/mocs_compilation.cpp	7745bb40e2728b92
+38	264	7431167737908935	_deps/googletest-build/googletest/gtest_autogen/timestamp	e812ee2307992331
+38	264	7431167737908935	_deps/googletest-build/googletest/gtest_autogen/mocs_compilation.cpp	e812ee2307992331
+38	264	7431167737908935	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-build/googletest/gtest_autogen/timestamp	e812ee2307992331
+38	264	7431167737908935	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-build/googletest/gtest_autogen/mocs_compilation.cpp	e812ee2307992331
+265	371	7431167738508862	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/gtest_autogen/mocs_compilation.cpp.obj	e263d725464609f5
+269	15941	7431167738508862	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	8415252ed53dc31
+15943	16098	7431167895210973	lib/libgtest.a	799ae52a1ff78291
+16098	16377	7431167898922650	_deps/googletest-build/googlemock/gmock_autogen/timestamp	9040229b69dd6546
+16098	16377	7431167898922650	_deps/googletest-build/googlemock/gmock_autogen/mocs_compilation.cpp	9040229b69dd6546
+16098	16377	7431167898922650	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-build/googlemock/gmock_autogen/timestamp	9040229b69dd6546
+16098	16377	7431167898922650	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-build/googlemock/gmock_autogen/mocs_compilation.cpp	9040229b69dd6546
+16106	16397	7431167898922650	_deps/googletest-build/googletest/gtest_main_autogen/timestamp	2cd4e6f37f661b47
+16106	16397	7431167898922650	_deps/googletest-build/googletest/gtest_main_autogen/mocs_compilation.cpp	2cd4e6f37f661b47
+16106	16397	7431167898922650	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-build/googletest/gtest_main_autogen/timestamp	2cd4e6f37f661b47
+16106	16397	7431167898922650	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-build/googletest/gtest_main_autogen/mocs_compilation.cpp	2cd4e6f37f661b47
+16378	16604	7431167899672567	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/gmock_autogen/mocs_compilation.cpp.obj	2fa45ae3cc1d2a74
+16399	16629	7431167899935636	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/gtest_main_autogen/mocs_compilation.cpp.obj	f5bdd58ef7e63f16
+16410	18466	7431167900016599	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	2260561253e74215
+18467	18628	7431167920479730	lib/libgtest_main.a	b60d2d55cd5e6c74
+18628	18900	7431167922120918	ExxportAndImportV2_autogen/timestamp	55b073d6a1fd14da
+18628	18900	7431167922120918	ExxportAndImportV2_autogen/mocs_compilation.cpp	55b073d6a1fd14da
+18628	18900	7431167922120918	E:/New Folder2/ExxportAndImportV2/build/ExxportAndImportV2_autogen/timestamp	55b073d6a1fd14da
+18628	18900	7431167922120918	E:/New Folder2/ExxportAndImportV2/build/ExxportAndImportV2_autogen/mocs_compilation.cpp	55b073d6a1fd14da
+18927	25961	7431167925189272	CMakeFiles/ExxportAndImportV2.dir/DetailPersonalInfo.cpp.obj	bd4fab2817ffea5b
+18905	26192	7431167924820443	CMakeFiles/ExxportAndImportV2.dir/main.cpp.obj	8b2ad4b026437b27
+16382	26809	7431167899672567	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	9f7a228e12572e32
+26812	27281	7431168003971984	lib/libgmock.a	3fde821d0b655d88
+27284	28308	7431168014663010	_deps/googletest-build/googlemock/gmock_main_autogen/timestamp	c161413be2a49d09
+27284	28308	7431168014663010	_deps/googletest-build/googlemock/gmock_main_autogen/mocs_compilation.cpp	c161413be2a49d09
+27284	28308	7431168014663010	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-build/googlemock/gmock_main_autogen/timestamp	c161413be2a49d09
+27284	28308	7431168014663010	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-build/googlemock/gmock_main_autogen/mocs_compilation.cpp	c161413be2a49d09
+26194	31900	7431167997733809	CMakeFiles/ExxportAndImportV2.dir/dataaccessobject.cpp.obj	e9d35f9ae67e9eb8
+31903	32081	7431168054916573	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/gmock_main_autogen/mocs_compilation.cpp.obj	4fabcdae4e6ebda6
+25963	32308	7431167995484221	CMakeFiles/ExxportAndImportV2.dir/application.cpp.obj	39fe529cfaa3f7dd
+18900	32504	7431167924820443	CMakeFiles/ExxportAndImportV2.dir/ExxportAndImportV2_autogen/mocs_compilation.cpp.obj	9a9f9c87096c5f5f
+28313	32531	7431168019012245	CMakeFiles/ExxportAndImportV2.dir/logger.cpp.obj	52c28c2267b28871
+18909	32532	7431167924970414	CMakeFiles/ExxportAndImportV2.dir/Group_table.cpp.obj	6fcd3ab63b0b37ba
+18917	34810	7431167925120389	CMakeFiles/ExxportAndImportV2.dir/User_Table.cpp.obj	d28c15554f2abd69
+32084	35142	7431168056692287	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	e01e3463cd3a43a1
+34810	35270	7431168083984920	ExxportAndImportV2.exe	9bc9ef0c321960a1
+35142	35339	7431168087189705	lib/libgmock_main.a	d314839374960d44

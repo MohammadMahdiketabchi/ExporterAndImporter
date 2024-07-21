@@ -1,0 +1,188 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/ExxportAndImportV2_autogen",
+	"CMAKE_BINARY_DIR" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/New Folder2/ExxportAndImportV2",
+	"CMAKE_EXECUTABLE" : "C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"E:/New Folder2/ExxportAndImportV2/CMakeLists.txt",
+		"E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake",
+		"E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/3.30.0/CMakeSystem.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake",
+		"E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/3.30.0/CMakeCXXCompiler.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/Platform/Windows.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/Compiler/GNU.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake",
+		"E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/3.30.0/CMakeRCCompiler.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CMakeRCInformation.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CMakeParseArguments.cmake",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/lib/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/lib/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/lib/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/FetchContent.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/ExternalProject/shared_internal_commands.cmake",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/FetchContent/CMakeLists.cmake.in",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "E:/New Folder2/ExxportAndImportV2",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/ExxportAndImportV2_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "ExxportAndImportV2_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"E:/New Folder2/ExxportAndImportV2/BaseTable.h",
+			"MU",
+			"EWIEGA46WW/moc_BaseTable.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/DetailPersonalInfo.h",
+			"MU",
+			"EWIEGA46WW/moc_DetailPersonalInfo.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/Group_table.h",
+			"MU",
+			"EWIEGA46WW/moc_Group_table.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/Table_Factory.h",
+			"MU",
+			"EWIEGA46WW/moc_Table_Factory.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/User_Table.h",
+			"MU",
+			"EWIEGA46WW/moc_User_Table.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/application.h",
+			"MU",
+			"EWIEGA46WW/moc_application.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/dataaccessobject.h",
+			"MU",
+			"EWIEGA46WW/moc_dataaccessobject.cpp",
+			null
+		],
+		[
+			"E:/New Folder2/ExxportAndImportV2/logger.h",
+			"MU",
+			"EWIEGA46WW/moc_logger.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/ExxportAndImportV2_autogen/include",
+	"MOC_COMPILATION_FILE" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/ExxportAndImportV2_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_SQL_LIB", "SPDLOG_COMPILED_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"E:/New Folder2/ExxportAndImportV2/spdlog/include",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/include",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/include/QtCore",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/mkspecs/win32-g++",
+		"C:/Qt/Qt_5/5.15.2/mingw81_64/include/QtSql",
+		"E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-src/googletest/include",
+		"E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-src/googletest",
+		"C:/Qt/Qt_5/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+		"C:/Qt/Qt_5/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+		"C:/Qt/Qt_5/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+		"C:/Qt/Qt_5/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+		"C:/Qt/Qt_5/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+		"C:/Qt/Qt_5/Tools/mingw810_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Qt/Qt_5/Tools/mingw810_64/bin/g++.exe",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/ExxportAndImportV2_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/ExxportAndImportV2_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/Qt_5/5.15.2/mingw81_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/ExxportAndImportV2_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"E:/New Folder2/ExxportAndImportV2/DetailPersonalInfo.cpp",
+			"MU",
+			null
+		],
+		[ "E:/New Folder2/ExxportAndImportV2/Group_table.cpp", "MU", null ],
+		[ "E:/New Folder2/ExxportAndImportV2/User_Table.cpp", "MU", null ],
+		[ "E:/New Folder2/ExxportAndImportV2/application.cpp", "MU", null ],
+		[ "E:/New Folder2/ExxportAndImportV2/application_test.cpp", "MU", null ],
+		[ "E:/New Folder2/ExxportAndImportV2/daotest.cpp", "MU", null ],
+		[ "E:/New Folder2/ExxportAndImportV2/dataaccessobject.cpp", "MU", null ],
+		[
+			"E:/New Folder2/ExxportAndImportV2/detailpersonalinfo_test.cpp",
+			"MU",
+			null
+		],
+		[ "E:/New Folder2/ExxportAndImportV2/grouptable_test.cpp", "MU", null ],
+		[ "E:/New Folder2/ExxportAndImportV2/logger.cpp", "MU", null ],
+		[ "E:/New Folder2/ExxportAndImportV2/main.cpp", "MU", null ],
+		[ "E:/New Folder2/ExxportAndImportV2/usertable_test.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

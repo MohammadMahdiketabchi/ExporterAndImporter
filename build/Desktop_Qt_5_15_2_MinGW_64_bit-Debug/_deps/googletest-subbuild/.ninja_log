@@ -1,0 +1,21 @@
+# ninja log v6
+2	95	7431166775899292	E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	16bfab448babf890
+3620	3709	7431166812082745	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	d35416e09479e79d
+95	3620	7431166811182907	E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	7a03319965e1c24e
+4058	4149	7431166816487540	E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d93516009b0fe1f3
+4149	4277	7431166817745969	E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	8231af9930d26a90
+3709	3793	7431166812982596	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	ec96a71e03f98760
+3709	3793	7431166812982596	E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	ec96a71e03f98760
+4149	4277	7431166817745969	CMakeFiles/googletest-populate-complete	8231af9930d26a90
+4149	4277	7431166817745969	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	8231af9930d26a90
+95	3620	7431166811182907	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	7a03319965e1c24e
+3793	3881	7431166813882427	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	a4fa71fb94dc6e3f
+2	95	7431166775899292	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	16bfab448babf890
+3620	3709	7431166812082745	E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	d35416e09479e79d
+3970	4057	7431166815587705	E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	edf20633bdd616de
+3970	4057	7431166815587705	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	edf20633bdd616de
+3881	3970	7431166814782257	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	ad9c671ece27f586
+3793	3881	7431166813882427	E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	a4fa71fb94dc6e3f
+4058	4149	7431166816487540	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d93516009b0fe1f3
+3881	3970	7431166814782257	E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	ad9c671ece27f586
+4149	4277	7431166817745969	E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	8231af9930d26a90

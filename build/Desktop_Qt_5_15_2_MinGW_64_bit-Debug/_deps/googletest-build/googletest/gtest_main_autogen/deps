@@ -1,0 +1,16 @@
+gtest_main_autogen/timestamp: \
+	C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in \
+	C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake \
+	C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake \
+	C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/FindPackageMessage.cmake \
+	C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/FindPython.cmake \
+	C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/FindPython/Support.cmake \
+	C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake \
+	E:/New\ Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
+	E:/New\ Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-src/googletest/CMakeLists.txt \
+	E:/New\ Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-src/googletest/cmake/Config.cmake.in \
+	E:/New\ Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-src/googletest/cmake/gtest.pc.in \
+	E:/New\ Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-src/googletest/cmake/gtest_main.pc.in \
+	E:/New\ Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-src/googletest/cmake/internal_utils.cmake \
+	E:/New\ Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-src/googletest/src/gtest_main.cc \
+	C:/Users/ok/Downloads/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r3/mingw64/bin/cmake.exe

@@ -1,0 +1,21 @@
+# ninja log v6
+3	91	7431167173356670	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	6c9d4172cc2ea17b
+3	91	7431167173356670	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	6c9d4172cc2ea17b
+91	2899	7431167201396418	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	4a09475a3eb4de80
+91	2899	7431167201396418	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	4a09475a3eb4de80
+2899	2984	7431167202296263	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	75ad9ee3cd6f6627
+2899	2984	7431167202296263	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	75ad9ee3cd6f6627
+2985	3073	7431167203196128	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	85cd937e3e6c10ae
+2985	3073	7431167203196128	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	85cd937e3e6c10ae
+3073	3159	7431167204095938	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	d0fbe373b6c999a5
+3073	3159	7431167204095938	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	d0fbe373b6c999a5
+3159	3245	7431167204845803	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	8766ceb110081897
+3159	3245	7431167204845803	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	8766ceb110081897
+3245	3330	7431167205745647	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	4e07fe35ac7fbe37
+3245	3330	7431167205745647	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	4e07fe35ac7fbe37
+3330	3417	7431167206645479	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	7b33cddcfd72719c
+3330	3417	7431167206645479	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	7b33cddcfd72719c
+3417	3537	7431167207845271	CMakeFiles/googletest-populate-complete	502d0fdbb6fef5dc
+3417	3537	7431167207845271	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	502d0fdbb6fef5dc
+3417	3537	7431167207845271	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	502d0fdbb6fef5dc
+3417	3537	7431167207845271	E:/New Folder2/ExxportAndImportV2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	502d0fdbb6fef5dc

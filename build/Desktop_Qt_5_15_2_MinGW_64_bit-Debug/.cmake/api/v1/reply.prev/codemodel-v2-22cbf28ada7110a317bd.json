@@ -1,0 +1,337 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1c80e3df8eb3a2c31a7f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "spdlog",
+					"jsonFile" : "directory-spdlog-Debug-3015d02ec9865e9218f1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "spdlog",
+					"targetIndexes" : 
+					[
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "_deps/googletest-build",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.googletest-build-Debug-d95d64cbef277d1db433.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-src"
+				},
+				{
+					"build" : "_deps/googletest-build/googlemock",
+					"childIndexes" : 
+					[
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.googletest-build.googlemock-Debug-4bfb73d34045d8e80857.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 3,
+					"source" : "build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-src/googlemock",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "_deps/googletest-build/googletest",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.googletest-build.googletest-Debug-43689fa5322e27dbc495.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 4,
+					"source" : "build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/_deps/googletest-src/googletest",
+					"targetIndexes" : 
+					[
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ExxportAndImportV2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "spdlog",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						3
+					],
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "googletest-distribution",
+					"parentIndex" : 0
+				},
+				{
+					"childIndexes" : 
+					[
+						4
+					],
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "gmock",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "gtest",
+					"parentIndex" : 3,
+					"targetIndexes" : 
+					[
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ExxportAndImportV2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExxportAndImportV2-Debug-d438f0489026fee5eab0.json",
+					"name" : "ExxportAndImportV2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExxportAndImportV2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExxportAndImportV2_autogen-Debug-37372ec521a0282e97ac.json",
+					"name" : "ExxportAndImportV2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExxportAndImportV2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExxportAndImportV2_autogen_timestamp_deps-Debug-fce3dd95965cc22e9674.json",
+					"name" : "ExxportAndImportV2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gmock::@0f7bb11d64f3678238c7",
+					"jsonFile" : "target-gmock-Debug-a5801033abdafc1fb5ea.json",
+					"name" : "gmock",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gmock_autogen::@0f7bb11d64f3678238c7",
+					"jsonFile" : "target-gmock_autogen-Debug-ea8d4716d0e0fee35926.json",
+					"name" : "gmock_autogen",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gmock_autogen_timestamp_deps::@0f7bb11d64f3678238c7",
+					"jsonFile" : "target-gmock_autogen_timestamp_deps-Debug-9d5509a61d860163d2ac.json",
+					"name" : "gmock_autogen_timestamp_deps",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gmock_main::@0f7bb11d64f3678238c7",
+					"jsonFile" : "target-gmock_main-Debug-a71611a316bfb73b9f79.json",
+					"name" : "gmock_main",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gmock_main_autogen::@0f7bb11d64f3678238c7",
+					"jsonFile" : "target-gmock_main_autogen-Debug-7229b801d44f5efebacf.json",
+					"name" : "gmock_main_autogen",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gmock_main_autogen_timestamp_deps::@0f7bb11d64f3678238c7",
+					"jsonFile" : "target-gmock_main_autogen_timestamp_deps-Debug-e30f003d38937835fc31.json",
+					"name" : "gmock_main_autogen_timestamp_deps",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "gtest::@1ea2dfc0605fe3ab2a3f",
+					"jsonFile" : "target-gtest-Debug-9fb351a8554d8d04e2b5.json",
+					"name" : "gtest",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "gtest_autogen::@1ea2dfc0605fe3ab2a3f",
+					"jsonFile" : "target-gtest_autogen-Debug-b2c913d80da4361a7a2c.json",
+					"name" : "gtest_autogen",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "gtest_autogen_timestamp_deps::@1ea2dfc0605fe3ab2a3f",
+					"jsonFile" : "target-gtest_autogen_timestamp_deps-Debug-4ab36367d4b841104c76.json",
+					"name" : "gtest_autogen_timestamp_deps",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "gtest_main::@1ea2dfc0605fe3ab2a3f",
+					"jsonFile" : "target-gtest_main-Debug-7595ec49445793de87e2.json",
+					"name" : "gtest_main",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "gtest_main_autogen::@1ea2dfc0605fe3ab2a3f",
+					"jsonFile" : "target-gtest_main_autogen-Debug-4715262a690e78ba803f.json",
+					"name" : "gtest_main_autogen",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "gtest_main_autogen_timestamp_deps::@1ea2dfc0605fe3ab2a3f",
+					"jsonFile" : "target-gtest_main_autogen_timestamp_deps-Debug-442aa57f1f6ed974944a.json",
+					"name" : "gtest_main_autogen_timestamp_deps",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "spdlog::@d269c8109d32a9027337",
+					"jsonFile" : "target-spdlog-Debug-ffe8f7969325f7a08c92.json",
+					"name" : "spdlog",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "spdlog_autogen::@d269c8109d32a9027337",
+					"jsonFile" : "target-spdlog_autogen-Debug-cacbd4f7e966d70ce74c.json",
+					"name" : "spdlog_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "spdlog_autogen_timestamp_deps::@d269c8109d32a9027337",
+					"jsonFile" : "target-spdlog_autogen_timestamp_deps-Debug-f00dabcec6610e753665.json",
+					"name" : "spdlog_autogen_timestamp_deps",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/New Folder2/ExxportAndImportV2/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+		"source" : "E:/New Folder2/ExxportAndImportV2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
